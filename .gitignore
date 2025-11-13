@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+*.sqlite3
+
+# CSV + generated assets
+data/*.csv
+insights/*.png
+
+# Environment files
+.env
+.DS_Store
