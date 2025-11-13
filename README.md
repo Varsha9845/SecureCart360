@@ -1,4 +1,4 @@
-# SecureCart360  
+# SecureCart360  (DILIGENT ASSIGNMENT)
 A data-driven mini e-commerce risk intelligence system built using AI-generated synthetic data, SQLite, and SQL analytics.
 ___________________________________________________________________________________________________________________________________________________________
 
@@ -67,6 +67,14 @@ ________________________________________________________________________________
 - Pandas  
 - Matplotlib  
 - Cursor (for AI-based prompt generation)
+___________________________________________________________________________________________________________________________________________________________
+
+## Conclusion
+
+This project delivers a fully functional e-commerce fraud analytics pipeline using AI-generated data, SQLite, SQL joins, and visual insights. It satisfies all assignment requirements while maintaining clean structure, reproducibility, and clarity for reviewers.
+
+-Done by VARSHA
+
 
 
 
