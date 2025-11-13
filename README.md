@@ -66,7 +66,7 @@ ________________________________________________________________________________
 ![Fraud Distribution]([Fraud risk distribution.png](https://github.com/Varsha9845/SecureCart360/blob/main/Fraud%20risk%20distribution.png?raw=true))
 
 ### High-Risk Users
-![High Risk Users](https://github.com/Varsha9845/SecureCart360/blob/main/High%20risk%20users.png?raw=true)
+![High Risk Users](https://github.com/Varsha9845/SecureCart360/blob/main/High%20risk%20users.png?raw=true))
 
 ___________________________________________________________________________________________________________________________________________________________
 
