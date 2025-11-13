@@ -29,9 +29,11 @@ ________________________________________________________________________________
 
 ## Outputs
 
-1. fraud_distribution.png
+### Fraud Risk Distribution
+![Fraud Distribution]([Fraud risk distribution.png](https://github.com/Varsha9845/SecureCart360/blob/main/Fraud%20risk%20distribution.png?raw=true))
 
-2. high_risk_users.png
+### High-Risk Users
+![High Risk Users]([High risk users.png](https://github.com/Varsha9845/SecureCart360/blob/main/High%20risk%20users.png?raw=true))
 
 Both available in the insights/ folder.
 ___________________________________________________________________________________________________________________________________________________________
@@ -57,17 +59,6 @@ ________________________________________________________________________________
 
 5. **Simple, Reproducible ETL Workflow**  
    Designed to be fully transparent and easy to run for reviewers.
-
-___________________________________________________________________________________________________________________________________________________________
-
-## Outputs
-
-### Fraud Risk Distribution
-![Fraud Distribution]([Fraud risk distribution.png](https://github.com/Varsha9845/SecureCart360/blob/main/Fraud%20risk%20distribution.png?raw=true))
-
-### High-Risk Users
-![High Risk Users]([High risk users.png](https://github.com/Varsha9845/SecureCart360/blob/main/High%20risk%20users.png?raw=true))
-
 ___________________________________________________________________________________________________________________________________________________________
 
 ## Tools Used
