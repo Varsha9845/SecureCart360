@@ -1,0 +1,11 @@
+product_id,product_name,category,price,sku
+1,Smartphone X,Electronics,357.52,SKU1001
+2,Laptop Pro,Electronics,414.04,SKU1002
+3,Air Purifier,Home,864.51,SKU1003
+4,Coffee Maker,Home,58.89,SKU1004
+5,Running Shoes,Fashion,655.18,SKU1005
+6,Yoga Mat,Fitness,647.94,SKU1006
+7,Wireless Earbuds,Electronics,65.3,SKU1007
+8,Blender,Home,729.56,SKU1008
+9,Jacket,Fashion,801.58,SKU1009
+10,Smartwatch,Electronics,113.71,SKU1010

@@ -1,0 +1,25 @@
+customer_id,full_name,email,signup_date,country,loyalty_tier
+CUST001,Olivia Chen,olivia.chen@auroraretail.com,2024-12-05,United States,Gold
+CUST002,Liam Patel,liam.patel@tridentanalytics.co.uk,2024-12-11,United Kingdom,Silver
+CUST003,Sophia Martinez,sophia.martinez@pacificshield.ca,2024-12-18,Canada,Platinum
+CUST004,Noah Fischer,noah.fischer@rheinsecure.de,2025-01-04,Germany,Gold
+CUST005,Ava Johnson,ava.johnson@blueharbor.io,2025-01-12,United States,Silver
+CUST006,Ethan Williams,ethan.williams@latitudelogics.com,2025-01-20,United States,Gold
+CUST007,Mia Rossi,mia.rossi@cobralabs.it,2025-01-29,Italy,Platinum
+CUST008,Oliver Davis,oliver.davis@securenet.au,2025-02-03,Australia,Bronze
+CUST009,Isabella Nguyen,isabella.nguyen@halcyonretail.com,2025-02-09,United States,Gold
+CUST010,Mason Clark,mason.clark@vectorholdings.co.nz,2025-02-15,New Zealand,Silver
+CUST011,Harper Kim,harper.kim@skybridgekorea.com,2025-02-22,South Korea,Gold
+CUST012,Elijah Brown,elijah.brown@everguardsolutions.com,2025-03-01,United States,Platinum
+CUST013,Amelia Laurent,amelia.laurent@hexapoint.fr,2025-03-09,France,Gold
+CUST014,Lucas Schmidt,lucas.schmidt@bavariasecure.de,2025-03-16,Germany,Silver
+CUST015,Charlotte Lee,charlotte.lee@edgevista.com,2025-03-25,United States,Platinum
+CUST016,James O'Connor,james.oconnor@emeraldshield.ie,2025-04-02,Ireland,Gold
+CUST017,Evelyn Brooks,evelyn.brooks@midwestlogix.com,2025-04-10,United States,Silver
+CUST018,Benjamin Silva,benjamin.silva@andessystems.com,2025-04-18,Chile,Gold
+CUST019,Aria Mehta,aria.mehta@zenithsolutions.in,2025-04-25,India,Silver
+CUST020,Henry Wilson,henry.wilson@straitsecure.sg,2025-05-03,Singapore,Gold
+CUST021,Zoe Carter,zoe.carter@atlanticretail.co,2025-05-11,United States,Bronze
+CUST022,Daniel Hughes,daniel.hughes@northernvolt.ca,2025-05-19,Canada,Silver
+CUST023,Grace Müller,grace.mueller@rheinsecure.de,2025-05-27,Germany,Gold
+CUST024,Jack Thompson,jack.thompson@pacificshield.ca,2025-06-04,Canada,Silver
