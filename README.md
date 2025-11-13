@@ -63,10 +63,12 @@ ________________________________________________________________________________
 ## Outputs
 
 ### Fraud Risk Distribution
-![Fraud Distribution](insights/fraud_distribution.png)
+![Fraud Distribution](<img width="926" height="580" alt="Screenshot 2025-11-13 220827" src="https://github.com/user-attachments/assets/01388799-0be0-470e-a428-00161cc7f150" />
+)
 
 ### High-Risk Users
-![High Risk Users](insights/high_risk_users.png)
+![High Risk Users](<img width="994" height="565" alt="Screenshot 2025-11-13 220818" src="https://github.com/user-attachments/assets/0d49e373-d6f6-40ca-9fcf-12055ffd8e6e" />
+)
 
 ___________________________________________________________________________________________________________________________________________________________
 
